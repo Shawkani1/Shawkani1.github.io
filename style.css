@@ -1,1 +1,22 @@
+Body{
+  Background-Color: #86493c
+}
+Body{
+  Font-family: Times new roman, Sans-serifs;
+  Line-height: 1.6;
+  Margin: 0;
+  Padding: 0;
+}
+h1 {
+  font-size: 36px;
+  color: #0919D5; 
+  text-align: center;
+
+}
+
+h3 {
+  font-size: 27px;
+  Color: #0C1360;
+  text-align: Left;
+}
 
